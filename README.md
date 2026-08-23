@@ -26,7 +26,7 @@ Para consolidar os dados das vendas com as informações de produtos e categoria
 * **Estratégia de Curva de Vendas:** Os líderes em faturamento do ranking (projetores) possuem ticket médio menor, porém compensam em alto volume acumulado de vendas (na casa de 20 mil a 22 mil unidades por item).
 
 ### 🖥️ Dashboard Interativo (Power BI)
-![Dashboard de Vendas](Dashboard_top10)
+![Dashboard de Vendas](./Dashboard_top10)
 ---
 
 ## 📁 Estrutura do Repositório
